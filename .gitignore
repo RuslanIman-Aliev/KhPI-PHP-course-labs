@@ -22,3 +22,10 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/.idea
+/.vscode
+!.gitignore
+.svn
+.idea
+.DS_Store
+.idea/*
